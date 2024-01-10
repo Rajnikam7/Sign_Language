@@ -1,1 +1,1 @@
-# Sign_Language
+Interpretation of Indian Sign Language using Machine Learning.In this project the double handed sign language is captured as a series of  image and processed with the help of puthon and then it is converted to speech and text.This is done using image processing techniques and machine learning algorithms, collected a comprehensive dataset of sign gestures.RNN to develop robust and accurate result then we integrated with NLP to convert recognized gestures into text and speech
